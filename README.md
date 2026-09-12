@@ -97,53 +97,18 @@ A simple web application for managing and organizing daily tasks.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpetwal&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
+  <img src="./profile/github-stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-languages.svg" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpetwal&theme=merko&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpetwal&theme=merko&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryanpetwal&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
-
+  <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
-
----
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=aryanpetwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpetwal&theme=merko&hide_border=true&area=true" />
-
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-
-## 👀 Profile Views
-
-[![](https://komarev.com/ghpvc/?username=aryanpetwal&icon=3&color=2)](https://visitcount.itsvg.in)
-
----
-
-## 💭 Developer Mindset
-
-> **Learn → Practice → Build → Improve → Repeat.** 🚀
-
-⭐ Thanks for visiting my profile!
