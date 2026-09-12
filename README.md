@@ -136,3 +136,14 @@ A simple web application for managing and organizing daily tasks.
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
   </a>
 </p>
+## 🏃 Fitness & Running
+
+<p align="center">
+  <img src="./profile/strava-stats.svg" alt="2026 Running Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://www.strava.com/athletes/1523932396">
+    <img src="https://img.shields.io/badge/Strava-View%20My%20Activities-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="View My Strava Activities"/>
+  </a>
+</p>
