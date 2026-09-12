@@ -5,16 +5,18 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-profile:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Create profile directory
         run: mkdir -p profile
@@ -34,6 +36,14 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=merko&hide_border=true
           path: profile/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=${{ github.repository_owner }}&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
@@ -43,5 +53,7 @@ jobs:
 
           git commit -m "Update GitHub profile cards" || exit 0
 
-          git pull --rebase origin main
-          git push origin main
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
