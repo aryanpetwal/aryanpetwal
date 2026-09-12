@@ -4,30 +4,30 @@
 </p>
 # 💫 About Me
 
-👋 Hi, I'm **Aryan Petwal**!
+ Hi, I'm **Aryan Petwal**!
 
-🎓 B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
-💻 Currently focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.  
+~ B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
+~ Currently focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.  
 🧩 Regularly practicing **LeetCode** to strengthen my problem-solving and coding skills.  
 🌐 Exploring **Web Development** and building small practical projects.  
-🚀 Interested in building real-world projects and continuously improving my technical skills.  
-📚 Currently learning how to write cleaner, more efficient, and maintainable code.  
-🤝 Open to **collaboration, learning opportunities, and connecting with fellow developers**.
+~ Interested in building real-world projects and continuously improving my technical skills.  
+~ Currently learning how to write cleaner, more efficient, and maintainable code.  
+~ Open to **collaboration, learning opportunities, and connecting with fellow developers**.
 
 ---
 
 ## 🎯 Current Focus
 
-- ☕ Java & Object-Oriented Programming
-- 🧠 Data Structures & Algorithms
+-  Java & Object-Oriented Programming
+-  Data Structures & Algorithms
 - 🧩 LeetCode Problem Solving
 - 🌐 HTML, CSS & JavaScript
-- 🗄️ MySQL & Database Fundamentals
-- 🚀 Building practical projects
-- 📈 Improving problem-solving and coding consistency
+-  MySQL & Database Fundamentals
+-  Building practical projects
+-  Improving problem-solving and coding consistency
 
 ---
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-petwal-149062328/">
@@ -58,9 +58,9 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
-### 👨‍💻 Programming
+###  Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -71,13 +71,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Database
+###  Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-# 🚀 Projects
+#  Projects
 
 ### 🎵 Sound Activated Switch
 
@@ -101,11 +101,11 @@ A simple web application for managing and organizing daily tasks.
     <img src="https://leetcard.jacoblin.cool/ryn1n__?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
-> 🧠 Consistently practicing Data Structures & Algorithms to improve problem-solving and coding skills.
+> Consistently practicing Data Structures & Algorithms to improve problem-solving and coding skills.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="./profile/github-stats.svg" height="180" alt="GitHub Stats"/>
@@ -118,25 +118,25 @@ A simple web application for managing and organizing daily tasks.
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?category=programming&font=trebuchet_ms&bg_color=0d1117&quote_color=58a6ff&author_color=c3d1d9&accent_color=1f6feb&border_color=30363d&border_width=1&border_radius=8" alt="Random Developer Quote"/>
 </p>
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 
 <p align="center">
   <a href="https://github.com/aryanpetwal?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
   </a>
 </p>
-## 🏃 Fitness & Running
+##  Fitness & Running
 
 <p align="center">
   <a href="https://www.strava.com/athletes/1523932396">
@@ -145,5 +145,5 @@ A simple web application for managing and organizing daily tasks.
 </p>
 
 <p align="center">
-  🏃 Running • 💪 Fitness • 📈 Continuous Progress
+   Running •  Fitness • 📈 Continuous Progress
 </p>
