@@ -2,10 +2,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
-## About Me
-
- Hi, I'm **Aryan Petwal**!
-
+ <h1 align="center">👋 ABOUT ME</h1>
+ -> Hi, I'm Aryan Petwal
+  
 ~ B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
 ~ Currently focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.  
 ~ Regularly practicing **LeetCode** to strengthen my problem-solving and coding skills.  
@@ -79,7 +78,7 @@
 
 #  Projects
 
-###  Sound Activated Switch
+### 1. Sound Activated Switch
 
 An Arduino-based project that uses sound detection to control a device.
 
@@ -87,7 +86,7 @@ An Arduino-based project that uses sound detection to control a device.
 
 ---
 
-###  To-Do List
+### 2. To-Do List
 
 A simple web application for managing and organizing daily tasks.
 
