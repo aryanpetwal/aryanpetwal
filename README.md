@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
- <h1 align="center">👋 ABOUT ME</h1>
+ <h1 align="center"> ABOUT ME</h1>
  -> Hi, I'm Aryan Petwal
   
 ~ B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
@@ -26,7 +26,7 @@
 -  Improving problem-solving and coding consistency
 
 ---
-##  Let's Connect
+ <h1 align="center">##  Let's Connect</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-petwal-149062328/">
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-##  Socials
+ <h1 align="center">##  Socials</h1>
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&logoWidth=12)](https://bsky.app/profile/aryanpetwal.bsky.social)&nbsp;&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/aryanpetwal)&nbsp;&nbsp;
@@ -57,7 +57,7 @@
 
 ---
 
-#  Tech Stack
+ <h1 align="center">#  Tech Stack</h1>
 
 ###  Programming
 
@@ -76,7 +76,7 @@
 
 ---
 
-#  Projects
+ <h1 align="center">## Projects</h1>
 
 ### 1. Sound Activated Switch
 
@@ -93,7 +93,7 @@ A simple web application for managing and organizing daily tasks.
 **Tech:** HTML • CSS • JavaScript
 
 ---
-##  LeetCode
+ <h1 align="center">##  LeetCode</h1>
 
 <p align="center">
   <a href="https://leetcode.com/u/ryn1n__/">
@@ -104,7 +104,7 @@ A simple web application for managing and organizing daily tasks.
 
 ---
 
-## GitHub Stats
+ <h1 align="center">## GitHub Stats</h1>
 
 <p align="center">
   <img src="./profile/github-stats.svg" height="180" alt="GitHub Stats"/>
@@ -117,25 +117,25 @@ A simple web application for managing and organizing daily tasks.
 
 ---
 
-## GitHub Trophies
+ <h1 align="center">## GitHub Trophies</h1>
 
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
-## Random Dev Quote
+ <h1 align="center">## Random Dev Quote</h1>
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?category=programming&font=trebuchet_ms&bg_color=0d1117&quote_color=58a6ff&author_color=c3d1d9&accent_color=1f6feb&border_color=30363d&border_width=1&border_radius=8" alt="Random Developer Quote"/>
 </p>
 
-## Top Contributed Repo
+ <h1 align="center">## Top Contributed Repo</h1>
 
 <p align="center">
   <a href="https://github.com/aryanpetwal?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
   </a>
 </p>
-##  Fitness & Running
+ <h1 align="center">##  Fitness & Running</h1>
 
 <p align="center">
   <a href="https://www.strava.com/athletes/1523932396">
