@@ -139,11 +139,11 @@ A simple web application for managing and organizing daily tasks.
 ## 🏃 Fitness & Running
 
 <p align="center">
-  <img src="./profile/strava-stats.svg" alt="2026 Running Stats"/>
+  <a href="https://www.strava.com/athletes/1523932396">
+    <img src="https://img.shields.io/badge/Strava-View%20My%20Activities-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.strava.com/athletes/1523932396">
-    <img src="https://img.shields.io/badge/Strava-View%20My%20Activities-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="View My Strava Activities"/>
-  </a>
+  🏃 Running • 💪 Fitness • 📈 Continuous Progress
 </p>
