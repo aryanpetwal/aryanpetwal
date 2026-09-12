@@ -109,3 +109,16 @@ A simple web application for managing and organizing daily tasks.
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?category=programming&font=trebuchet_ms&bg_color=0d1117&quote_color=58a6ff&author_color=c3d1d9&accent_color=1f6feb&border_color=30363d&border_width=1&border_radius=8" alt="Random Developer Quote"/>
+</p>
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <a href="https://github.com/aryanpetwal?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
+  </a>
+</p>
