@@ -5,12 +5,12 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update-profile:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -20,35 +20,25 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=aryanpetwal&show_icons=true&theme=merko&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=merko&hide_border=true
           path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=aryanpetwal&layout=compact&theme=merko&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&theme=merko&hide_border=true
           path: profile/top-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate GitHub Trophies
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: username=aryanpetwal&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10
-          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add profile/*.svg
-
           git commit -m "Update GitHub profile cards" || exit 0
-
           git push
