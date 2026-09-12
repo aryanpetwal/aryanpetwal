@@ -80,9 +80,6 @@ A simple web application for managing and organizing daily tasks.
 **Tech:** HTML • CSS • JavaScript
 
 ---
-
-# 🧩 LeetCode
-
 ## 🧩 LeetCode
 
 <p align="center">
