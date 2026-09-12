@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
-#  About Me
+## About Me
 
  Hi, I'm **Aryan Petwal**!
 
