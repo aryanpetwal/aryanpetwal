@@ -34,11 +34,14 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=merko&hide_border=true
           path: profile/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
+
           git commit -m "Update GitHub profile cards" || exit 0
-          git push
+
+          git pull --rebase origin main
+          git push origin main
