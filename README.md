@@ -27,7 +27,17 @@
 - 📈 Improving problem-solving and coding consistency
 
 ---
+## 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-petwal-149062328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/ryn1n__">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 ## 🌐 Socials
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&logoWidth=12)](https://bsky.app/profile/aryanpetwal.bsky.social)&nbsp;&nbsp;
