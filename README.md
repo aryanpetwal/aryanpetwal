@@ -128,7 +128,7 @@ A simple web application for managing and organizing daily tasks.
   <img src="https://readme-daily-quotes.vercel.app/api?category=programming&font=trebuchet_ms&bg_color=0d1117&quote_color=58a6ff&author_color=c3d1d9&accent_color=1f6feb&border_color=30363d&border_width=1&border_radius=8" alt="Random Developer Quote"/>
 </p>
 
- <h1 align="center">## Top Contributed Repo</h1>
+ <h1 align="center">## Top Contributed Repository</h1>
 
 <p align="center">
   <a href="https://github.com/aryanpetwal?tab=repositories">
