@@ -1,4 +1,3 @@
-## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
