@@ -1,0 +1,19 @@
+name: Update Strava Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-strava:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Strava Stats
+        run: |
+          echo "Strava stats update will run here"
+          echo "Daily sync scheduled for 03:00 UTC (08:30 IST)"
