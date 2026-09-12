@@ -2,26 +2,26 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
-# 💫 About Me
+#  About Me
 
  Hi, I'm **Aryan Petwal**!
 
 ~ B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
 ~ Currently focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.  
-🧩 Regularly practicing **LeetCode** to strengthen my problem-solving and coding skills.  
-🌐 Exploring **Web Development** and building small practical projects.  
+~ Regularly practicing **LeetCode** to strengthen my problem-solving and coding skills.  
+~ Exploring **Web Development** and building small practical projects.  
 ~ Interested in building real-world projects and continuously improving my technical skills.  
 ~ Currently learning how to write cleaner, more efficient, and maintainable code.  
 ~ Open to **collaboration, learning opportunities, and connecting with fellow developers**.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 -  Java & Object-Oriented Programming
 -  Data Structures & Algorithms
-- 🧩 LeetCode Problem Solving
-- 🌐 HTML, CSS & JavaScript
+-  LeetCode Problem Solving
+-  HTML, CSS & JavaScript
 -  MySQL & Database Fundamentals
 -  Building practical projects
 -  Improving problem-solving and coding consistency
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-## 🌐 Socials
+##  Socials
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&logoWidth=12)](https://bsky.app/profile/aryanpetwal.bsky.social)&nbsp;&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/aryanpetwal)&nbsp;&nbsp;
@@ -65,7 +65,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -79,7 +79,7 @@
 
 #  Projects
 
-### 🎵 Sound Activated Switch
+###  Sound Activated Switch
 
 An Arduino-based project that uses sound detection to control a device.
 
@@ -87,14 +87,14 @@ An Arduino-based project that uses sound detection to control a device.
 
 ---
 
-### 📝 To-Do List
+###  To-Do List
 
 A simple web application for managing and organizing daily tasks.
 
 **Tech:** HTML • CSS • JavaScript
 
 ---
-## 🧩 LeetCode
+##  LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/ryn1n__/">
