@@ -1,17 +1,149 @@
-# 💫 About Me:
-👋 Hi, I'm Aryan!<br><br>🎓 B.Tech CSE student passionate about programming and problem-solving.<br>💻 Currently learning Java and Data Structures & Algorithms.<br>🧩 Regularly practicing LeetCode to improve my problem-solving skills.<br>🌱 Exploring web development and building small projects.<br>🚀 Focused on continuously learning and improving my technical skills.<br>🤝 Open to collaboration, learning, and connecting with fellow developers.
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aryanpetwal.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aryanpetwal) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FUKafdm93) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryn1n__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-petwal-149062328/)[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@aryanpetwal4210) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ryn1n__) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Aryan-Petwal-4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ryn1n__) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/ryn1n__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan_petwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aryancoree_7) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aryan-Petwal) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@aryanpetwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanpetwal4210@gmail.com) 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aryanpetwal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aryanpetwal&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryanpetwal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💫 About Me
+
+👋 Hi, I'm **Aryan Petwal**!
+
+🎓 B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
+💻 Currently focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.  
+🧩 Regularly practicing **LeetCode** to strengthen my problem-solving and coding skills.  
+🌐 Exploring **Web Development** and building small practical projects.  
+🚀 Interested in building real-world projects and continuously improving my technical skills.  
+📚 Currently learning how to write cleaner, more efficient, and maintainable code.  
+🤝 Open to **collaboration, learning opportunities, and connecting with fellow developers**.
+
+---
+
+## 🎯 Current Focus
+
+- ☕ Java & Object-Oriented Programming
+- 🧠 Data Structures & Algorithms
+- 🧩 LeetCode Problem Solving
+- 🌐 HTML, CSS & JavaScript
+- 🗄️ MySQL & Database Fundamentals
+- 🚀 Building practical projects
+- 📈 Improving problem-solving and coding consistency
+
+---
+
+## 🌐 Socials
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&logoWidth=12)](https://bsky.app/profile/aryanpetwal.bsky.social)&nbsp;&nbsp;
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/aryanpetwal)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/FUKafdm93)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ryn1n__)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-petwal-149062328/)&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@aryanpetwal4210)&nbsp;&nbsp;
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/ryn1n__)&nbsp;&nbsp;
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Aryan-Petwal-4)&nbsp;&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/ryn1n__)&nbsp;&nbsp;
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/ryn1n__)&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/aryan_petwal)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@aryancoree_7)&nbsp;&nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/Aryan-Petwal)&nbsp;&nbsp;
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.social/@aryanpetwal)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryanpetwal4210@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 🚀 Projects
+
+### 🎵 Sound Activated Switch
+
+An Arduino-based project that uses sound detection to control a device.
+
+**Tech:** Arduino • Tinkercad • Electronics
+
+---
+
+### 📝 To-Do List
+
+A simple web application for managing and organizing daily tasks.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+# 🧩 LeetCode
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/ryn1n__/">
+    <img src="https://leetcard.jacoblin.cool/ryn1n__?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+> 🧠 Consistently practicing Data Structures & Algorithms to improve problem-solving and coding skills.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanpetwal&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpetwal&theme=merko&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryanpetwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-### 🔝 Top Contributed Repo
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryanpetwal&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
+
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=aryanpetwal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpetwal&theme=merko&hide_border=true&area=true" />
+
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+
+## 👀 Profile Views
+
 [![](https://komarev.com/ghpvc/?username=aryanpetwal&icon=3&color=2)](https://visitcount.itsvg.in)
+
+---
+
+## 💭 Developer Mindset
+
+> **Learn → Practice → Build → Improve → Repeat.** 🚀
+
+⭐ Thanks for visiting my profile!
