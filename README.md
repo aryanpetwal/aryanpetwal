@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
- <h1 align="center"> ABOUT ME</h1>
+ <h1 align="center">☆ ABOUT ME</h1>
  -> Hi, I'm Aryan Petwal
   
 ~ B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
@@ -97,10 +97,12 @@ A simple web application for managing and organizing daily tasks.
 
 <p align="center">
   <a href="https://leetcode.com/u/ryn1n__/">
-    <img src="https://leetcard.jacoblin.cool/ryn1n__?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/ryn1n__?theme=dark&ext=heatmap" 
+      width="650" 
+      alt="LeetCode Stats"/>
   </a>
 </p>
-> Consistently practicing Data Structures & Algorithms to improve problem-solving and coding skills.
+-> Consistently practicing Data Structures & Algorithms to improve problem-solving and coding skills.
 
 ---
 
