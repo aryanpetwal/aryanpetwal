@@ -106,15 +106,18 @@ A simple web application for managing and organizing daily tasks.
 
 ---
 
- <h1 align="center">## GitHub Stats</h1>
+<h2 align="center"> ##GitHub Stats</h2>
 
 <p align="center">
-  <img src="./profile/github-stats.svg" height="180" alt="GitHub Stats"/>
-  <img src="./profile/top-languages.svg" height="180" alt="Top Languages"/>
+  <img src="./profile/github-stats.svg" width="500" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpetwal&theme=merko&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="./profile/top-languages.svg" width="500" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpetwal&theme=merko&hide_border=true" width="500" alt="GitHub Streak"/>
 </p>
 
 ---
