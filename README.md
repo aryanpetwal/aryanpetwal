@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=aryanpetwal&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
  <h1 align="center">☆ ABOUT ME</h1>
- -> Hi, I'm Aryan Petwal
+ ▸ Hi, I'm Aryan Petwal
   
 ~ B.Tech CSE student passionate about **programming, problem-solving, and software development**.  
 ~ Currently focused on **Java, Object-Oriented Programming, and Data Structures & Algorithms**.  
@@ -15,7 +15,7 @@
 
 ---
 
-##  Current Focus
+▸  Current Focus
 
 -  Java & Object-Oriented Programming
 -  Data Structures & Algorithms
@@ -26,7 +26,7 @@
 -  Improving problem-solving and coding consistency
 
 ---
- <h1 align="center">##  Let's Connect</h1>
+ <h1 align="center">▸ Let's Connect</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-petwal-149062328/">
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
- <h1 align="center">##  Socials</h1>
+ <h1 align="center">▸ Socials</h1>
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&logoWidth=12)](https://bsky.app/profile/aryanpetwal.bsky.social)&nbsp;&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://behance.net/aryanpetwal)&nbsp;&nbsp;
@@ -57,28 +57,28 @@
 
 ---
 
- <h1 align="center">##  Tech Stack</h1>
+ <h1 align="center">▸ Tech Stack</h1>
 
-###  Programming
+▸  Programming
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-###  Web Development
+▸ Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-###  Database
+▸  Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
- <h1 align="center">## Projects</h1>
+ <h1 align="center">▸ Projects</h1>
 
-### 1. Sound Activated Switch
+ 1. Sound Activated Switch
 
 An Arduino-based project that uses sound detection to control a device.
 
@@ -86,14 +86,14 @@ An Arduino-based project that uses sound detection to control a device.
 
 ---
 
-### 2. To-Do List
+ 2. To-Do List
 
 A simple web application for managing and organizing daily tasks.
 
 **Tech:** HTML • CSS • JavaScript
 
 ---
- <h1 align="center">##  LeetCode</h1>
+ <h1 align="center">▸ LeetCode</h1>
 
 <p align="center">
   <a href="https://leetcode.com/u/ryn1n__/">
@@ -106,7 +106,7 @@ A simple web application for managing and organizing daily tasks.
 
 ---
 
-<h2 align="center"> ##GitHub Stats</h2>
+<h2 align="center">▸ GitHub Stats</h2>
 
 <p align="center">
   <img src="./profile/github-stats.svg" width="500" alt="GitHub Stats"/>
@@ -122,25 +122,25 @@ A simple web application for managing and organizing daily tasks.
 
 ---
 
- <h1 align="center">## GitHub Trophies</h1>
+ <h1 align="center">▸ GitHub Trophies</h1>
 
 <p align="center">
   <img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
- <h1 align="center">## Random Dev Quote</h1>
+ <h1 align="center">▸ Random Dev Quote</h1>
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?category=programming&font=trebuchet_ms&bg_color=0d1117&quote_color=58a6ff&author_color=c3d1d9&accent_color=1f6feb&border_color=30363d&border_width=1&border_radius=8" alt="Random Developer Quote"/>
 </p>
 
- <h1 align="center">## Top Contributed Repository</h1>
+ <h1 align="center">▸ Top Contributed Repository</h1>
 
 <p align="center">
   <a href="https://github.com/aryanpetwal?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories"/>
   </a>
 </p>
- <h1 align="center">##  Fitness & Running</h1>
+ <h1 align="center">▸  Fitness & Running</h1>
 
 <p align="center">
   <a href="https://www.strava.com/athletes/1523932396">
